@@ -13,4 +13,4 @@ average percentage.
 **Display Results**: Show the total marks, average percentage, and the corresponding grade to the user
 
 **Display Results**: Show the total marks, average percentage, and the corresponding grade to the user
-#                                   Thanks
+### Thanks..
