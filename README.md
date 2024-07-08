@@ -1,5 +1,5 @@
 # Grade Calculator
-This is the 2nd task of my [CodSoft](https://www.codsoft.in)
+This is my 2nd task of [CodSoft](https://www.codsoft.in).
 
 # What we have to do
 **Input**: Take marks obtained (out of 100) in each subject.
@@ -13,3 +13,4 @@ average percentage.
 **Display Results**: Show the total marks, average percentage, and the corresponding grade to the user
 
 **Display Results**: Show the total marks, average percentage, and the corresponding grade to the user
+#                                   Thanks
